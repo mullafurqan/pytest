@@ -1,1 +1,2 @@
-print("I am Furqan")
+print("I am Furqan,Hello guys how are you")
+print("Good morning")
